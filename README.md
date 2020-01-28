@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-1. [Array ADT](#Array ADT)
+1. [Array ADT](## Array ADT)
 
 
 
