@@ -133,5 +133,5 @@ In the String class, I didn't use lots of operation. Instead, I add lots of spec
 
 #### Ostream overloading
 
-1.ostream
+1. ostream
 
