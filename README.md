@@ -7,7 +7,6 @@
 
 
 ## Table of Contents
-
 1. [Array ADT](#array-adt)
 2. [String](#string)
 
