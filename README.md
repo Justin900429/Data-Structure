@@ -2,13 +2,14 @@
 
 ## Introduction
 
-  This topic is going to introduce some basic data structure and its operation. Also, I'll using class to write the structure and hoping to make them to be ADT. Below is the abstract.
+  This topic is going to introduce some basic data structure and its operation. Also, I'll using class to write the structure and hoping to make them to be ADT(Not all).
 
 
 
 ## Table of Contents
 
-1. [Array ADT](#Array ADT)
+1. [Array ADT](#array-adt)
+2. [String](#string)
 
 
 
@@ -77,4 +78,61 @@ In this class, I use the interger array. You can change the class into any templ
 1. Union()
 2. Intersect()
 3. Diff()
+
+
+
+## String
+
+In the String class, I didn't use lots of operation. Instead, I add lots of special function for fun!
+
+### Table for function
+
+#### Constructor and destructor
+
+1. String()
+2. ~String()
+
+#### Getter function
+
+1. getLength()
+
+#### Case function
+
+1. toUpper()
+2. toLower()
+3. toggleCase()
+
+#### Conditional function
+
+1. compare()
+
+2. checkvalid()
+
+3. isPalindram()
+
+4. findDuplicate()
+
+   > Using array
+
+5. findDuplicateBitwise()
+
+   > Using Bitwise Operation
+
+6. checkAnagram()
+
+#### Reverse and find permutaion
+
+1. reverse()
+
+2. permuationWithStatic()
+
+   > Using static
+
+3. permutationWithSwap()
+
+   > Using swap
+
+#### Ostream overloading
+
+1.ostream
 
